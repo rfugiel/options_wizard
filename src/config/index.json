@@ -5,80 +5,76 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Why Us?",
+      "href": "why"
     },
     {
-      "name": "Features",
-      "href": "features"
+      "name": "The Team",
+      "href": "team"
     },
 
     {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
-      "name": "About",
-      "href": "about"
+      "name": "Premium Services",
+      "href": "premium"
     }
   ],
   "callToAction": {
     "text": "Get started",
-    "href": "#"
+    "href": "https://discord.gg/PcCqJbkHMz"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Options Wizard",
+    "subtitle": "Options trading made easy.",
+    "description": "Our experienced team conducts comprehensive research on options, so you don't have to. Learn the ropes, receive real-time options alerts, and optimize your trading strategies with a community dedicated to your success. Start your journey towards becoming a proficient options trader with us!",
+    "img": "/assets/images/stocks1.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Start 7-Day Trial",
+      "href": "https://discord.gg/PcCqJbkHMz"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Take Our Survey",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLScnWs0t6_7132XTGU82GUOFeS4t2enQdg7FvG-LXTBVXO7ODA/viewform"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Why Options Wizard?",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "No Trading Experience Necessary",
+        "description": "Not a trader? Use our teams lightning fast option alerts to dramatically increase your returns and the accuracy of option plays.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Trade Smarter, Profit Bigger",
+        "description": "Boost your trading with 24/7 real-time alerts, economic data, and access to private channels from our expert and communicative team. Learn, trade, and profit confidently with our educational tools and track record of wins/losses, even when not subscribed. 💰",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "The High Wizards",
+    "subtitle": "Meet The Team",
+    "description": "Our team works together in bringing you the best in all things trading. Subscribe and get access to their alerts, livestreams and one-on-one in Discord.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Tye",
+        "description": "Tye is a day trading maestro, specializing in the SP500 (SPY) but adept at trading anything, even penny stocks, with success. A wizard at charting, technical analysis, and quick returns, he's your go-to for mastering the day-trading matrix.",
+        "icon": "/assets/images/wiz1.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Bill",
+        "description": "Bill is an experienced trader specializing in options, technical analysis, charting, patterns, and research. A natural teacher, he is dedicated to helping everyone succeed, focusing on shorter-term trades, whether intraday or a few days swing. For top-notch technical analysis, catalysts, and day trading insights, Bill is a key member of our expert team.",
+        "icon": "/assets/images/wiz2.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Jay",
+        "description": "Jay is an expert in mid-term option and stock swings, focusing on safer blue chips and SP500 stocks rather than riskier options like biotechs. Known for delivering surprising returns that don't surprise our team, she is the go-to for those unable to trade actively throughout the day. For exceptional option plays, swings, and technical analysis, Jay is a standout choice in our expert team.",
+        "icon": "/assets/images/wiz3.png"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Dave",
+        "description": "Dave leverages his decades of experience in finance and accounting to specialize in stock share and option swings, penny stocks, biotechs, and retirement portfolio recommendations. His plays may range from a day to a few months, always indicating the timeframe in his callouts. For exceptional guidance on swings, penny stocks, biotechs, retirement planning, and other financial expertise, Dave is a key asset to our expert team.",
+        "icon": "/assets/images/wiz4.png"
       }
     ]
   },
@@ -89,35 +85,20 @@
         "name": "Free",
         "price": "$0",
         "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
+        "features": ["lorem ipsum", "dolor est"]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Weekly",
+        "price": "$14",
+        "priceDetails": "per week",
 
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
+        "features": ["lorem ipsum", "dolor est"]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
+        "name": "Monthly",
+        "price": "$50",
+        "priceDetails": "per month",
+        "features": ["lorem ipsum", "dolor est"]
       }
     ]
   },
