@@ -6,16 +6,16 @@
   "navigation": [
     {
       "name": "Why Us?",
-      "href": "why"
+      "href": "product"
     },
     {
       "name": "The Team",
-      "href": "team"
+      "href": "features"
     },
 
     {
       "name": "Premium Services",
-      "href": "premium"
+      "href": "pricing"
     }
   ],
   "callToAction": {
