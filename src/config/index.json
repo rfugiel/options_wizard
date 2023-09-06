@@ -84,44 +84,49 @@
       {
         "name": "Free",
         "price": "$0",
-        "priceDetails": "for one user",
-        "features": ["lorem ipsum", "dolor est"]
+        "priceDetails": "",
+        "features": ["Free Trader Channel", "Limited Trade Signals "]
       },
       {
         "name": "Weekly",
-        "price": "$14",
+        "price": "$15",
         "priceDetails": "per week",
 
-        "features": ["lorem ipsum", "dolor est"]
+        "features": [
+          "All Real-time alerts ",
+          "Members-Only Trading Channel ",
+          "Complete access to our trades & catalysts",
+          "Teaching & QA Sessions"
+        ]
       },
       {
         "name": "Monthly",
-        "price": "$50",
+        "price": "$30",
         "priceDetails": "per month",
-        "features": ["lorem ipsum", "dolor est"]
+        "features": [
+          "All Real-time alerts ",
+          "Members-Only Trading Channel ",
+          "Complete access to our trades & catalysts",
+          "Teaching & QA Sessions"
+        ]
       }
     ]
   },
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
+        "name": "Tik Tok",
+        "href": "https://www.tiktok.com/t/ZT826cqPf/",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
-        "href": "#",
+        "name": "Instagram",
+        "href": "https://instagram.com/optio_nwizards?igshid=MzMyNGUyNmU2YQ==",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
+        "name": "Twitter",
+        "href": "https://twitter.com/option_wizards/status/1699043849203511544?s=46&t=Kjiq_Zsz-nEuSF3jhgkYrg",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
     ],
